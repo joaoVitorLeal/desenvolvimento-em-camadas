@@ -6,9 +6,9 @@ This project aims to demonstrate the application of the layered development conc
 
 The project is structured into several layers, each responsible for a specific set of functions:
 
-1. **Presentation Layer (UI)**: Responsible for the user interface. This layer allows the user to interact with the system and view information. The focus is on separating the presentation logic from the business logic.
+1. **Presentation Layer (Views)**: Responsible for the user interface. This layer allows the user to interact with the system and view information. The focus is on separating the presentation logic from the business logic.
 
-2. **Business Layer (Service)**: Contains the system's business logic. All data validation and processing take place here. The business layer communicates directly with the persistence layer.
+2. **Business Layer (Business)**: Contains the system's business logic. All data validation and processing take place here. The business layer communicates directly with the persistence layer.
 
 3. **Persistence Layer (DAO)**: Responsible for communication with the database. It uses JDBC (Java Database Connectivity) to perform CRUD (Create, Read, Update, Delete) operations in a database.
 
@@ -58,9 +58,9 @@ Este projeto tem como objetivo demonstrar a aplicação do conceito de desenvolv
 
 O projeto está estruturado em diversas camadas, cada uma responsável por um conjunto específico de funções:
 
-1. **Camada de Apresentação (UI)**: Responsável pela interface com o usuário. Esta camada permite que o usuário interaja com o sistema e visualize as informações. O foco é em separar a lógica de apresentação da lógica de negócios.
+1. **Camada de Apresentação (Views)**: Responsável pela interface com o usuário. Esta camada permite que o usuário interaja com o sistema e visualize as informações. O foco é em separar a lógica de apresentação da lógica de negócios.
 
-2. **Camada de Negócios (Service)**: Contém a lógica de negócio do sistema. Toda a validação e processamento de dados acontecem aqui. A camada de negócios se comunica diretamente com a camada de persistência.
+2. **Camada de Negócios (Business)**: Contém a lógica de negócio do sistema. Toda a validação e processamento de dados acontecem aqui. A camada de negócios se comunica diretamente com a camada de persistência.
 
 3. **Camada de Persistência (DAO)**: Responsável pela comunicação com o banco de dados. Utiliza JDBC (Java Database Connectivity) para realizar operações de CRUD (Create, Read, Update, Delete) em um banco de dados.
 
