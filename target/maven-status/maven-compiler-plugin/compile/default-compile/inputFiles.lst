@@ -1,0 +1,9 @@
+/home/joaoleal/Projetos/desenvolvimentoemcamadas/src/main/java/app/AutorApp.java
+/home/joaoleal/Projetos/desenvolvimentoemcamadas/src/main/java/business/AutorBS.java
+/home/joaoleal/Projetos/desenvolvimentoemcamadas/src/main/java/config/credenciaisDB.java
+/home/joaoleal/Projetos/desenvolvimentoemcamadas/src/main/java/dao/AutorDAO.java
+/home/joaoleal/Projetos/desenvolvimentoemcamadas/src/main/java/desenvolvimentoemcamadas/DesenvolvimentoEmCamadas.java
+/home/joaoleal/Projetos/desenvolvimentoemcamadas/src/main/java/model/Autor.java
+/home/joaoleal/Projetos/desenvolvimentoemcamadas/src/main/java/views/TelaCadastroAutor.java
+/home/joaoleal/Projetos/desenvolvimentoemcamadas/src/main/java/views/TelaConsulta.java
+/home/joaoleal/Projetos/desenvolvimentoemcamadas/src/main/java/views/TelaDeletarAutor.java
